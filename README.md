@@ -32,6 +32,7 @@ This repository will collect all neccessary information regarding Geospatial Dat
 
 ### Geospatial Data Analysis/Visualization Tutorials/Blogs
 
+<a href="https://towardsdatascience.com/how-to-work-with-big-geospatial-data-4ba919a8ffc2" target="_blank">How to work with BIG Geospatial Data</a> <br/>
 <a href="https://www.youtube.com/watch?v=qeLQfnpJV1g" target="_blank">Anita Graser: Analyzing movement data</a> <br/>
 <a href="https://www.kaggle.com/learn/geospatial-analysis" target="_blank">Geospatial Data Analysis Course on Kaggle</a> <br/>
 <a href="https://www.linkedin.com/pulse/visualizing-nyc-bike-data-interactive-animated-maps-folium-toso/" target="_blank">Visualizing NYC Bike Data on interactive and animated maps with Folium plugins</a> <br/>
