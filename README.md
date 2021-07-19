@@ -9,7 +9,7 @@ This repository will collect all neccessary information regarding Geospatial Dat
 ```
 3. This command will create an environement called **gis_env**. To activate this environement, run the following command: <br/>
 ```sh
-  $ conda activate gis_env <br/>
+  $ conda activate gis_env
 ```
 
 # Dataset
