@@ -4,9 +4,9 @@ This repository will collect all neccessary information regarding Geospatial Dat
 # Setup Environment
 1. First download and install <a href="https://docs.anaconda.com/anaconda/install/index.html" target="_blank">Anaconda</a> or <a href="https://docs.conda.io/en/latest/miniconda.html" target="_blank">Miniconda</a> in your system.
 2. I have created the list of packages in the gis_envronemnet.yml. So run the following command on the Anaconda or Miniconda terminal: <br/>
-  $ conda env create --f gis_envronemnet.yml
-3. This command will create an environement called **gis_env**. To activate this environement, run the following command:
-  $ conda activate gis_env
+  $ conda env create --f gis_envronemnet.yml <br/>
+3. This command will create an environement called **gis_env**. To activate this environement, run the following command: <br/>
+  $ conda activate gis_env <br/>
 
 # Dataset
 
