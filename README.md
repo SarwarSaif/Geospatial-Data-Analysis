@@ -6,6 +6,8 @@ This repository will collect all neccessary information regarding Geospatial Dat
 | Name | Use Case |
 |--|--|
 |Dask | to handle bigger datasets|
+|BigQuery Gis | to analyze and visualize Petabytes of geospatial data in BigQuery|
+|BigQuery Geo Viz | a web tool for visualization of geospatial data in BigQuery using Google Maps APIs|
 |GeoPandas | to work with Geospatial Data|
 |MovingPandas| to handle people movement data|
 |Jpmesh| to work with Japaneses mesh data|
@@ -33,6 +35,7 @@ This repository will collect all neccessary information regarding Geospatial Dat
 ### Geospatial Data Analysis/Visualization Tutorials/Blogs
 
 <a href="https://towardsdatascience.com/how-to-work-with-big-geospatial-data-4ba919a8ffc2" target="_blank">How to work with BIG Geospatial Data</a> <br/>
+<a href="https://cloud.google.com/bigquery/docs/gis-intro#:~:text=BigQuery%20GIS%20(Geographic%20Information%20Systems,and%20standard%20SQL%20geography%20functions." target="_blank">Introduction to BigQuery GIS | Google Cloud</a> <br/>
 <a href="https://www.youtube.com/watch?v=qeLQfnpJV1g" target="_blank">Anita Graser: Analyzing movement data</a> <br/>
 <a href="https://www.kaggle.com/learn/geospatial-analysis" target="_blank">Geospatial Data Analysis Course on Kaggle</a> <br/>
 <a href="https://www.linkedin.com/pulse/visualizing-nyc-bike-data-interactive-animated-maps-folium-toso/" target="_blank">Visualizing NYC Bike Data on interactive and animated maps with Folium plugins</a> <br/>
