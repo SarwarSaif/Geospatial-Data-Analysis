@@ -1,4 +1,5 @@
-# Geospatial-Data-Analysis
+<h1 align="center">Geospatial-Data-Analysis</h1>
+
 This repository will collect all neccessary information regarding Geospatial Data Analysis
 
 ### Some Useful Libraries:
