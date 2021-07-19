@@ -6,7 +6,7 @@ This repository will collect all neccessary information regarding Geospatial Dat
 |--|--|
 |Dask | to handle bigger datasets|
 |GeoPandas | to work with Geospatial Data|
-|MovingPandas| to handle people movemnebt data|
+|MovingPandas| to handle people movement data|
 |Jpmesh| to work with Japaneses mesh data|
 |GeoPy| to get locations from coordinates|
 |Folium| to visualize data over interactive map|
