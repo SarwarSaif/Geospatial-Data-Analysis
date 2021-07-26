@@ -40,6 +40,7 @@ This repository will collect all neccessary information regarding Geospatial Dat
 <a href="https://www.kaggle.com/learn/geospatial-analysis" target="_blank">Geospatial Data Analysis Course on Kaggle</a> <br/>
 <a href="https://www.linkedin.com/pulse/visualizing-nyc-bike-data-interactive-animated-maps-folium-toso/" target="_blank">Visualizing NYC Bike Data on interactive and animated maps with Folium plugins</a> <br/>
 <a href="https://medium.com/nerd-for-tech/time-lapse-heat-maps-with-folium-1847f53ec956" target="_blank">Time-lapse heat maps with Folium</a> <br/>
+<a href="https://nbviewer.jupyter.org/github/python-visualization/folium/blob/master/examples/Plugins.ipynb#Timestamped-GeoJSON" target="_blank">Examples of plugins usage in folium</a> <br/>
 <a href="https://www.youtube.com/watch?v=4RnU5qKTfYY" target="_blank">Data Driven Maps With Python Folium & Leaflet.js</a> <br/>
 <a href="https://towardsdatascience.com/mapping-the-most-popular-places-in-the-city-1cd0737e7023" target="_blank">Mapping the most popular places in the city</a> <br/>
 <a href=" " target="_blank"> </a> <br/>
